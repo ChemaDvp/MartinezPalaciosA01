@@ -14,28 +14,27 @@ Deberás crear un proyecto correctamente nombrado y crear su repositorio en Gith
 
 
 ## Requisitos para ejecutar el ejercicio:
-1- Tener Descargado Flutter.
-2- Instalar en VS Code las extensiones: Flutter y Dart.
-3- Clona este repositorio.
-4- Ejecuta el comando (flutter run) en la terminal de VS Code.
-
-
+1. Tener Descargado Flutter.
+2. Instalar en VS Code las extensiones: Flutter y Dart.
+3. Clona este repositorio.
+4. Ejecuta el comando (flutter run) en la terminal de VS Code.
 
 ## Desglose del Código:
-. Linea 1:
-  . Contenedor de color (blanco), centrado en la parte superior y con texto.
-. Linea 2:
-  . Contenedor (rojo), contiene un (row) con otros 3 contenedores más pequeños de colores.
-. Linea 3:
-  . Contenedor (azul), utiliza el widget (Padding), contiene 3 contenedores de colores.
-. Linea 4:
-  . Contenedor (amarillo), contiene un (row) dividido en dos:
-    . (row) con tres contenedores de colores.
-    . Se utiliza (Padding) para añadir espacio y una (column) con tres contenedores de colores.
-. Linea 5:
-  . Contenedor (rosa), con un (row) dividido en dos:
-    . (row) con tres contenedores de colores.
-    . (Padding) para añadir espacio, (column) con tres contenedores de colores. (la disposicion de las columnas es diferente al anterior ejemplo).
+- Linea 1:
+  - Contenedor de color (blanco), centrado en la parte superior y con texto.
+- Linea 2:
+  - Contenedor (rojo), contiene un (row) con otros 3 contenedores más pequeños de colores.
+- Linea 3:
+  - Contenedor (azul), utiliza el widget (Padding), contiene 3 contenedores de colores.
+- Linea 4:
+  - Contenedor (amarillo), contiene un (row) dividido en dos:
+    - (row) con tres contenedores de colores.
+    - Se utiliza (Padding) para añadir espacio y una (column) con tres contenedores de colores.
+- Linea 5:
+  - Contenedor (rosa), con un (row) dividido en dos:
+    - (row) con tres contenedores de colores.
+    - (Padding) para añadir espacio, (column) con tres contenedores de colores. (la disposición de las columnas es diferente al anterior ejemplo).
+
     
 
 
