@@ -11,7 +11,7 @@ Deberás crear un proyecto correctamente nombrado y crear su repositorio en Gith
 ## Proyecto en ejecución:
 ![flutter01](https://github.com/ChemaDvp/MartinezPalaciosA01/assets/115820368/b3ed20a1-dda0-45e4-90e9-225c8cb731a0)
 
----
+
 
 ## Requisitos para ejecutar el ejercicio:
 1- Tener Descargado Flutter.
@@ -19,7 +19,7 @@ Deberás crear un proyecto correctamente nombrado y crear su repositorio en Gith
 3- Clona este repositorio.
 4- Ejecuta el comando (flutter run) en la terminal de VS Code.
 
----
+
 
 ## Desglose del Código:
 . Linea 1:
@@ -37,7 +37,7 @@ Deberás crear un proyecto correctamente nombrado y crear su repositorio en Gith
     . (row) con tres contenedores de colores.
     . (Padding) para añadir espacio, (column) con tres contenedores de colores. (la disposicion de las columnas es diferente al anterior ejemplo).
     
----
+
 
 ## Estructura del proyecto:
 La estructura del proyecto, sigue la forma estándar a la hora de organizar un proyecto en flutter. Contiene un archivo main (main.dart), y los widgets (MaterialApp), (Scaffold), (SafeArea), (SingleChildScrollView), (Column) y (Container).
