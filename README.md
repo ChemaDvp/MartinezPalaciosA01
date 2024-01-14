@@ -16,9 +16,6 @@ Deberás crear un proyecto correctamente nombrado y crear su repositorio en Gith
 ---
 
 ## Requisitos para ejecutar el ejercicio:
-
----
-
 1- Tener Descargado Flutter.
 2- Instalar en VS Code las extensiones: Flutter y Dart.
 3- Clona este repositorio.
@@ -45,7 +42,4 @@ Deberás crear un proyecto correctamente nombrado y crear su repositorio en Gith
 ---
 
 ## Estructura del proyecto:
-
----
-
 La estructura del proyecto, sigue la forma estándar a la hora de organizar un proyecto en flutter. Contiene un archivo main (main.dart), y los widgets (MaterialApp), (Scaffold), (SafeArea), (SingleChildScrollView), (Column) y (Container).
