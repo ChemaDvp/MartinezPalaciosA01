@@ -1,12 +1,12 @@
 # martinezpalacios_a_01
--
+---
 
 ## Ejercicio 01 Flutter
--
+---
 
 ### Enunciado:
 Deberás crear un proyecto correctamente nombrado y crear su repositorio en Github. La aplicación deberá parecerse al figma proporcionado. Como extra deberá poder hacer scroll en la pantalla.
--
+---
 
 ## Proyecto en ejecución:
 ![flutter01](https://github.com/ChemaDvp/MartinezPalaciosA01/assets/115820368/b3ed20a1-dda0-45e4-90e9-225c8cb731a0)
